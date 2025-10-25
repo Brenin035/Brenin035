@@ -1,6 +1,5 @@
 <!-- Animação no topo -->
 <p align="center">
- font=Fira+Code&weight=600&size=28&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Gabriel+Alderige;Desenvolvedor+Web;Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Apaixonado+por+tecnologia" alt="Typing SVG" />
 </p>
 
 <!-- Linha animada -->
